@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="style.css">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Over ons</title>
+</head>
+<body>
+    <li><a href="Homepage/home.html">Home</a></li>
+    <li><a href="#kevin">Kevin</a></li>
+    <li><a href="Over ons/overons.html">Over ons</a></li>
+    <li><a href="#filler">filler</a></li>
+    <h1>Over ons</h1>
+    <p>Heb je geen idee wat je wil doen voor project informatica? Je bent niet alleen. Gelukkig zijn wij er om jouw te helpen.
+        Wij hebben een ai gebouwd die jouw kan helpen met het bedenken van een idee. De reden waarom we dit hebben gedaan is omdat
+        wij zelf ook niet wisten wat we wouden doen en toen kwam de docent met het idee om een bot te maken die andere met hetzelfde
+        probleem kan helpen. 
+    </p>
+    <h2>Hoe kan jij contact met ons maken?</h2>
+    <p>Hier zijn onze email adressen</p>
+    <a href="mailto:velbergcosmo@gmail.com">Cosmo</a>
+</body>
+</html>
