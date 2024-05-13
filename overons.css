@@ -1,1 +1,39 @@
 
+body {
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    background-color: lightgray;
+    position: fixed;
+    border: 1px solid black;
+    margin: 0;
+    display: inline;
+}
+
+li {
+  float: left;
+  display: inline;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+    margin: bottom 100px;
+
+}
+
+li a:hover {
+    background-color: gray;
+}
+
+img {
+    width:400px;
+    height:400px;
+    float: left;
+}
