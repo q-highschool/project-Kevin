@@ -13,6 +13,7 @@
     background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(achtergrondfoto.jpg);
     background-size: cover;
     background-position: center;
+    position: relative;
 }
 
 .logo {
@@ -25,6 +26,18 @@
 .Kevinlogo {
     width: 200px;
     height: 200px;
+    object-fit: cover;
+    position: relative;
+    justify-content: space-between;
+}
+
+.Kevinzwaaiend {
+    margin-left: -400px;
+    height: 700px;
+    width: 500px;
+    margin-top:50px;
+    position: fixed;
+    object-fit: cover;
 }
 
 .header {
